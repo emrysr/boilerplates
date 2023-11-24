@@ -1,6 +1,6 @@
 # Prometheus with Grafana
 
-Promethius has an api that allows it to gather details from diffrent 
+Promethius has an api that allows it to gather details from diffrent sources
 
 This is intended for development environments. Would need to be improved for production.
 
