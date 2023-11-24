@@ -7,6 +7,8 @@ This is intended for development environments. Would need to be improved for pro
 Will install the Prometheus server and agent on the same stack.
 This will report back the node_exporter every 5s
 
+> todo: look into the loki log aggragator as a datasource <https://github.com/grafana/loki>
+
 ## Prometheus
 
 <http://localhost:9090/targets>
